@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
