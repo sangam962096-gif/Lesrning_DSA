@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
