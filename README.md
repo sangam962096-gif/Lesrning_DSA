@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0904-fruit-into-baskets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
