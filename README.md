@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
