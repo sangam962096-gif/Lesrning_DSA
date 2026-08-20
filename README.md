@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0125-valid-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0011-container-with-most-water) |
+| [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 ## Manacher
 |  |
 | ------- |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
