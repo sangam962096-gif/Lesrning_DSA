@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -215,9 +216,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
