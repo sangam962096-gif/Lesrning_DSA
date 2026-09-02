@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
