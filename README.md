@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0704-binary-search) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
