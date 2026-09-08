@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0704-binary-search) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0904-fruit-into-baskets) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
