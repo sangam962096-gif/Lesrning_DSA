@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0735-asteroid-collision) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0402-remove-k-digits) |
 ## Manacher
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0907-sum-of-subarray-minimums) |
