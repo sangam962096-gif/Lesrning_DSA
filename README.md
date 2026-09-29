@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0904-fruit-into-baskets) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0239-sliding-window-maximum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -319,8 +323,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
