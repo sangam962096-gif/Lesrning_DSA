@@ -1,38 +1,39 @@
 class Solution {
 public:
-int findMax( vector<int> & piles){
-            int maxi = INT_MIN;
-            int n = piles.size();
-            for( int  i = 0  ; i < n ; i++){
-                maxi = max(maxi , piles[i]);
-            }
-            return maxi;
-        }
-        long long calculateTotalHours(vector<int>& piles, int hourly){
-            long long totalH = 0 ;
-            int n = piles.size();
-            for( int i = 0 ; i < n ; i++){
-                totalH += ceil((double)piles[i] / (double)hourly);
-            }
-            return totalH;
-        }
+   int findMax( vector<int>& piles){
+    int n = piles.size();
+    int maxi = INT_MIN;
+
+    for( int  i =0 ; i < n ; i++){
+        maxi = max ( maxi , piles[i]);
+    }
+    return maxi;
+   }
+   long long calculateTotalHours( vector<int> & piles , int hourly){
+    long long totalH = 0;
+    int n = piles.size();
+    for( int i =0 ; i < n ; i++){
+        totalH += ceil((double)piles[i] / (double)hourly);
+    }
+    return totalH;
+   }
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1 , high = findMax(piles);
+        int n = piles.size();
 
         while( low <= high){
             int mid = low + ( high - low)/2;
 
-            long long totalH = calculateTotalHours( piles , mid);
+            long long totalH = calculateTotalHours(piles, mid);
 
             if( totalH <= h){
-               high = mid -1;
-
+                high = mid -1;
             }
             else {
                 low = mid +1;
             }
         }
-      return low;
+        return low;
     }
 };
 
@@ -72,7 +73,7 @@ int findMax( vector<int> & piles){
 //     } 
 
 //     // Helper Function 2: Agar Koko 'hourly' speed se khaye, toh total kitne ghante lagenge?
-//     int calculateTotalHours(vector<int>& piles, int hourly){
+//     long long calculateTotalHours(vector<int>& piles, int hourly){
 //         long long totalH = 0; // Edge case: Agar total hours bohot zyada ho jaye, toh long long use karna safe hota hai
 //         int n = piles.size();
 //         for(int i = 0; i < n; i++){
