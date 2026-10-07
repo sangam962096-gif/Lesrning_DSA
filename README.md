@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2104-sum-of-subarray-ranges](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sangam962096-gif/Lesrning_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
